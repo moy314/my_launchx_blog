@@ -10,13 +10,10 @@
     <item>
       <title>Título de tu blog post</title>
       <link>https://moy314.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://moy314.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>esta es la primera semana de la misión backend aquí en lauch X. hasta este punto hemos aprendido muchas cosas. la primera semana nos ddedicamos a aprender un poco de programacion con python y del proceso de desarrollo de software.
-una vez terminada esta primera semana, comenzamos con la mision frontend donde aprendimos tecnologías como:
--HTML -CSS -JAVASCRIPT -VUE -ANGULAR
-al principio parecía intimidante ver todo el camino que se tenía qué recorrer.</description>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
     </item>
     
     <item>
