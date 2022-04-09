@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "primera entrada"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'en este post te cuento un poco del camino recorrido en lauch X'
 ---
 
 esta es la primera semana de la misión backend aquí en lauch X. hasta este punto hemos aprendido muchas cosas.
